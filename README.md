@@ -16,7 +16,7 @@
 
 - A passionate Self-taught Full-Stack developer
 - Open Source Contributer
-- Problem Solver (solved 1000+ DSA problems)
+- Problem Solver 
 - I’m looking to collaborate on any project which solves any real-life problem
 
 
